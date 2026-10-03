@@ -1,0 +1,1 @@
+This is sample text file for reading using Async/Await Promises in Node.js.

@@ -1,0 +1,1 @@
+This is sample text file for synchronous file reading demonstration in Node.js.
